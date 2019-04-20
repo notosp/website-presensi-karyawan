@@ -1,0 +1,73 @@
+body{
+	font: normal 16px/20px  'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif;
+}
+.content{
+	margin-top: 15px;
+}
+#hasil img{
+	max-width: 300px;
+	-moz-box-shadow:    3px 3px 3px 3px #ccc;
+	-webkit-box-shadow: 3px 3px 3px 3px #ccc;
+	box-shadow:         3px 3px 3px 3px #ccc;
+}
+.label-form{
+	font-weight: 100!important;
+}
+.tab-pane{
+	padding: 10px;
+}
+.form-group {
+	margin-bottom: 5px;
+}
+.header-h3{
+	padding: 10px;
+	background-color: green;
+	color: white;
+}
+.form-control
+{
+	background: transparent;
+	border: none;
+	border-bottom: 1px dashed #83A4C5;
+	box-shadow: 0 0 0 8px rgba(255,255,255,0.5);
+	outline: none;
+	padding: 0px 0px 0px 10px;
+}
+.form-control:focus, textarea:focus{
+	border-bottom: 1px dashed #83A4C5;
+	box-shadow: 0 0 0 8px rgba(255,255,255,0.5);
+	outline: 0 none;
+}
+.download-button{
+	padding: 10px 5px 10px 5px;
+	background-color: #3E9DBD;
+	color: #ffffff;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+.download-button:hover{
+	text-decoration: none!important;
+	color: #ffffff;
+}
+.download-content{
+	margin-bottom: 10px;
+	margin-top: 5px;
+	padding-top: 10px;
+}
+.footer{
+	border-top: 1px solid #BEC8CC;
+	font-size: 12px;
+	margin-top: 20px;
+	padding-top: 20px;
+}
+.footer a{
+	color:#000000;
+}
+.footer a:hover{
+	color:#000000;
+	text-decoration: none!important;
+}
+.header{
+	margin-top: 10px;
+	margin-bottom:5px;
+}
